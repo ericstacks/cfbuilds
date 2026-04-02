@@ -154,7 +154,7 @@ flowchart LR
 ---
 
 ## Fluxo operacional da loja
-
+[Fluxo Operacional da Loja](./fluxo_operacional_loja.md)
 ```mermaid
 flowchart TD
     S[cf_store]
